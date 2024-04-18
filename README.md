@@ -9,5 +9,5 @@ Welcome to the Car Dealer Website repository! This project showcases a simple ye
 - **Sleek UI:** With carefully crafted user interface elements and visually appealing designs, navigating through the website is both intuitive and enjoyable.
 
 - **Interactive Elements:** Experience subtle interactions and animations powered by JavaScript, enhancing user engagement and interactivity.
-![Homepage](image/car-screen.png)
+![Homepage](image/car%20screen.png)
 
